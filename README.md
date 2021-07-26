@@ -52,3 +52,7 @@ Call the `solve` function by passing the defined puzzle.
 
 <br/>
 <br/>
+
+# Notes
+* Steps in the .pdf file 
+* Comments in the .lisp file

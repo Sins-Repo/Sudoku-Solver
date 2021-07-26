@@ -43,4 +43,12 @@ Difficult board
 ```
 
 <br/>
+
+Call the `solve` function by passing the defined puzzle.
+
+```
+(pprint (solve *puzzle*))
+```
+
+<br/>
 <br/>

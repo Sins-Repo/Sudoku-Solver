@@ -7,7 +7,8 @@
 <br/>
 
 # How to run
-Define an easy board
+Define a board that you wish to solve. <br/>
+Easy board
 ```
 (defparameter *puzzle*
   #2A((3 9 4	_ _ 2	6 7 _)
@@ -25,7 +26,7 @@ Define an easy board
 
 <br/>
 
-Define a difficult board
+Difficult board
 ```
 (defparameter *puzzle*
   #2A((_ _ _	6 _ _	4 _ _)
@@ -40,3 +41,6 @@ Define a difficult board
   	(9 _ 3	_ _ _	_ _ _)
   	(_ 2 _	_ _ _	1 _ _)))
 ```
+
+<br/>
+<br/>

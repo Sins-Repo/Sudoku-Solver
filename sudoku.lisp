@@ -92,7 +92,7 @@
 			;proceed to new column of the same row
 		)		
 		;t is the second clause
-		;last action to be performed if none of the above test case is true
+		;last action to be performed if none of the above base cases is true
 		(t 
 			;dolist iterate over elements of a list
 			;function choices is called
